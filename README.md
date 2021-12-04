@@ -2,7 +2,7 @@
 
 A blazing fast photography portfolio built with Gatsby
 
-https://Darius.netlify.com
+https://Darius-world.netlify.com
 
 ## Features
 

@@ -33,7 +33,7 @@ const Avatar = styled.div`
 
 const texts = [
   'Hello 👋',
-  "My name is Darius, I'm from Finland",
+  "My name is Darius,",
   "I'm a photography enthusiast 📷",
   'Have feedback, or want to ask something? I would be happy to hear :)',
 ]

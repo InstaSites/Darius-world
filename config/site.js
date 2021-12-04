@@ -5,10 +5,10 @@ module.exports = {
   siteTitleAlt: 'Darius - Photography', // Alternative Site title for SEO
   siteTitleShort: 'Darius', // short_name for manifest
   siteHeadline: 'Darius', // Headline for schema.org JSONLD
-  siteUrl: 'https://Darius.netlify.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://Darius-world.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.png', // Used for SEO and manifest
-  siteDescription: 'Darius - Personal photography portfolio',
+  siteDescription: 'Darius-world - Personal photography portfolio',
   author: 'Darius', // Author for schema.org JSONLD
   ogLanguage: 'en_US', // og:language
   googleAnalyticsID: 'UA-134925752-3',
